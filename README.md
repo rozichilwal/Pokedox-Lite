@@ -52,7 +52,7 @@ npm -v
 
    ```bash
    git clone https://github.com/your-username/Pokedox-Lite.git
-   cd pokedox-lite
+   cd Pokedox-Lite
    ```
 
    Or, if you already have the project folder, just navigate into it:
@@ -227,4 +227,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-> Built with ❤️ as part of the Skillovila Machine Code challenge.
+> Built with ❤️ as part of the Deepsol Intern Assignment challenge.
