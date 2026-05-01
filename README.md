@@ -2,7 +2,7 @@
 
 A sleek, responsive Pokédex web application built with React and Vite. Browse all Pokémon, search by name, filter by type, mark your favourites, and dive into detailed stats — all powered by the free [PokéAPI](https://pokeapi.co/).
 
-![Pokédex Lite Screenshot](./public/preview.png)
+
 
 ---
 
@@ -53,8 +53,7 @@ npm -v
    ```bash
    git clone https://github.com/rozichilwal/Pokedox-Lite
    cd Pokedox-Lite
-   ```
-
+   ``
    Or, if you already have the project folder, just navigate into it:
 
    ```bash
